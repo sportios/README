@@ -1,4 +1,4 @@
-# Fe1nx678
+# sportios
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/10043920-c99d-4c53-9f7a-04c572601b8e](https://web.telegram.org/a/progressive/document5332503464817757954" alt="Git Demo" width="600"/>
@@ -37,9 +37,10 @@
 
 
 ## 📫 Связь со мной
-- **GitHub**: [@Fe1nx678](https://github.com/sportios) 💻
-- **Telegram**: [@Fen1x678](https://t.me/sportios) 📱
-- **Steam**: [Fen1x](https://steamcommunity.com/profiles/76561199755996993/) 🎮
+- **GitHub**: [@sportios](https://github.com/sportios) 💻
+- **Telegram**: [@sportios](https://t.me/sportios) 📱
+- **Telegram**: [@sportios](https://vk.com/sportios)
+- **Steam**: [sportios](https://steamcommunity.com/profiles/76561199755996993/) 🎮
 - **Обучение**: МГТУ им. Н.Э. Баумана . Кафедра ИУ5 🎓
 
 ---
