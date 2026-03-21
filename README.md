@@ -1,7 +1,7 @@
 # sportios
 
 <div align="center">
-  <img src="<img width="498" height="321" alt="image" src="https://github.com/user-attachments/assets/ae9564da-0617-4bae-8fe6-2fcbe9e982ec" />
+  <img src="<"C:\Users\sportios\Downloads\happy-joy.gif.mp4"" />
 " alt="Git Demo" width="600"/>
   
   ### 🎓 Студент МГТУ им. Н.Э. Баумана
