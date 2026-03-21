@@ -1,7 +1,8 @@
 # sportios
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/10043920-c99d-4c53-9f7a-04c572601b8e](https://web.telegram.org/a/progressive/document5332503464817757954" alt="Git Demo" width="600"/>
+  <img src="<img width="498" height="321" alt="image" src="https://github.com/user-attachments/assets/ae9564da-0617-4bae-8fe6-2fcbe9e982ec" />
+" alt="Git Demo" width="600"/>
   
   ### 🎓 Студент МГТУ им. Н.Э. Баумана
   
