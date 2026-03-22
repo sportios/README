@@ -1,7 +1,7 @@
 # sportios
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/10043920-c99d-4c53-9f7a-04c572601b8e" alt="Git Demo" width="600"/>
+  <img src="https://github.com/user-attachments/assets/10043920-c99d-4c53-9f7a-04c572601b8e"/>
 "" />
 " alt="Git Demo" width="600"/>
   
@@ -41,7 +41,7 @@
 ## 📫 Связь со мной
 - **GitHub**: [@sportios](https://github.com/sportios) 💻
 - **Telegram**: [@sportios](https://t.me/sportios) 📱
-- **Telegram**: [@sportios](https://vk.com/sportios)
+- **VK**: [@sportios](https://vk.com/sportios) 📱
 - **Steam**: [sportios](https://steamcommunity.com/profiles/76561199755996993/) 🎮
 - **Обучение**: МГТУ им. Н.Э. Баумана . Кафедра ИУ5 🎓
 
