@@ -2,8 +2,7 @@
 
 <div align="center">
   
-"" />
-" alt="Git Demo" width="600"/>
+<img src="https://sun9-29.userapi.com/s/v1/ig2/8vfzDuPm3JY7mcjnbEQJ8pGbfY1UAGHzS01gi8sKDNLkY05IGwagEfEyqjkEndnGOuofFGGndH8U5VTKGBiEfSHy.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,960x1280&from=bu&cs=960x0"/>
   
   ### 🎓 Студент МГТУ им. Н.Э. Баумана
   
