@@ -1,7 +1,8 @@
 # sportios
 
 <div align="center">
-  <img src="<"C:\Users\sportios\Downloads\happy-joy.gif.mp4"" />
+  <img src="https://cdn.royaleapi.com/static/img/cards/8vfzDuPm3JY7mcjnbEQJ8pGbfY1UAGHzS01gi8sKDNLkY05IGwagEfEyqjkEndnGOuofFGGndH8U5VTKGBiEfSHy.png">
+"" />
 " alt="Git Demo" width="600"/>
   
   ### 🎓 Студент МГТУ им. Н.Э. Баумана
